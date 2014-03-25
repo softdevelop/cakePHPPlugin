@@ -1,0 +1,1 @@
+<?php pr(get_defined_vars());
